@@ -1,0 +1,3 @@
+﻿  MathGame.cpp
+C:\Users\ahmed\source\repos\MathGame\MathGame\MathGame.cpp(128,10): warning C4553: '==': result of expression not used; did you intend '='?
+  MathGame.vcxproj -> C:\Users\ahmed\source\repos\MathGame\x64\Debug\MathGame.exe
