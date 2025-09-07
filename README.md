@@ -113,3 +113,7 @@ Store scores in a file (leaderboard).
 Support floating-point division results.
 
 Make cross-platform (Linux/macOS without Windows system("color")).
+
+
+<img width="1914" height="1073" alt="image" src="https://github.com/user-attachments/assets/f719088c-5d4e-4d6e-b9e3-7af9b75e79a0" />
+<img width="1904" height="1077" alt="image" src="https://github.com/user-attachments/assets/08a85c1c-8eba-4987-8001-8bcbf57627b6" />
